@@ -1,5 +1,24 @@
 # Do not do this on week 17 day one, this will be done day 2
 
+# What This Hospital Challenge Teaches
+
+# Students will practice:
+
+#     Dictionaries inside lists
+
+#     Searching by key/value
+
+#     Adding new records
+
+#     Updating records safely
+
+#     Deleting records
+
+#     Preventing duplicate IDs
+
+#     Real-world database logic used in hospitals, insurance, and EMR systems
+
+# #########################Scenario##############################
 # You are building a real hospital patient system.
 # Nurses must be able to search, add, update, and discharge patients safely.
 # Every patient must be stored as a dictionary and placed inside a list.
