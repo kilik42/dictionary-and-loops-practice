@@ -18,9 +18,13 @@
 
             # Describe the search process
 
-    ## be able to add new data
+## be able to add new data
 # Your program must allow the secretary to ADD a brand new student
 # into the system while the program is running.
+
+# Your job is to let the secretary type in a new student just like filling out a registration form.
+# Once the form is complete, your program must turn that information into a dictionary and add it to the main list of students.
+# If the student already exists (same CPS ID), your program must block the entry to prevent duplicates.
 
 # The program should:
     # 1. Ask the user for the following information:
@@ -51,3 +55,6 @@
 # 7. If the CPS ID already exists in the system:
         #    - Do NOT add the student
         #    - Display an error message saying the CPS ID is already taken
+
+
+
