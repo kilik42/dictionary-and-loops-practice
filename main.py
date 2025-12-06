@@ -12,21 +12,21 @@
 
 # Each student dictionary contains:
 
-#     CPSID
+            #     CPSID
 
-#     Combo,Name
+            #     Combo,Name
 
-#     LName
+            #     LName
 
-#     FName
+            #     FName
 
-#     MName
+            #     MName
 
-#     HR
+            #     HR
 
-#     GL
+            #     GL
 
-#     Email (a list with 2 emails)
+            #     Email (a list with 2 emails)
 
 # Alright, let's simplify and rephrase the problem set to avoid using functions:
 
@@ -35,8 +35,6 @@
 #     Without writing new code, answer:
 
     #     What does students[0] represent?
-
-    #     Which student is students[5] referring to?
 
     #     What would students[0]['Email'][1] return?
 
@@ -57,8 +55,6 @@ print(students[0]['Email'][1])
 # If one new student enrolls, what happens to this number?
 
 # Why would a school use this in a real attendance system?
-
-
 
 
 
@@ -85,7 +81,6 @@ for student in students:
 # Why does each student print two emails?
 
 # What is the purpose of the line of underscores?
-
 
 
 
