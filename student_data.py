@@ -1,3 +1,16 @@
+# Exercise 1 — Understanding the Structure (Warm-Up)
+
+#     Answer using words only:
+
+#     What type of data structure is students?
+
+#     What type of data structure is one individual student record?
+
+#     Why is Email inside square brackets instead of quotes?
+
+#     Which key would you use if you only wanted a student’s last name?
+
+
 students = [{
     "CPSID": 10000011,
     "Combo,Name": "Anderson, Karen",
